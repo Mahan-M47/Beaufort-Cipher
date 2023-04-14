@@ -56,3 +56,6 @@ The result will be:
 EABDZPQVDK
 helloworld
 ```
+
+## References
+- <a href="https://en.wikipedia.org/wiki/Beaufort_cipher"> Wikipedia: Beaufort Cipher</a>

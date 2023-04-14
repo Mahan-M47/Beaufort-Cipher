@@ -28,8 +28,10 @@ b e a u f o r t    ->   - 1   4   0   20  5   14  17  19
                           B   E   P   N   Z   D   L   P
 ```
 
-<img src="Beaufort Table Guide.jpg" height=600 width=600 align="center">
-The ciphertext can be generated using the table above as well. If the example
+<img src="Beaufort Table Guide.jpg?raw=true" align="center" height=500 width=500>
+
+The ciphertext can be generated using the table above as well. If the letter 'r' is chosen with the key 'C', we first find 'r' in the first row
+and then we find the letter 'C' from the column below it. The row where 'C' is located is 'L' in this case, which means the cipher letter will be L.
 
 The decryption process is the exact same as the encryption process. The key is used to 
 generate a new string with the same length as the ciphertext, and the same process of finding 
